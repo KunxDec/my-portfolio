@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate learner, Network Administrator an
 
 ## 📫 Let's Connect!
 - Email: [Kungarival@gmail.com]
-- Instagram: [@kunga_dergetsang]
+- Instagram: [www.instagram.com/@kunga_dergetsang]
 - YouTube: [www.youtube.com/@Tsomokunga]
 
 ## ✨ Fun Fact
