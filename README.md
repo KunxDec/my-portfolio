@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate learner, Network Administrator an
 ## 📫 Let's Connect!
 - Email: [Kungarival@gmail.com]
 - Instagram: [@kunga_dergetsang]
-- YouTube: [Tenzin Tsomo]
+- YouTube: [www.youtube.com/@Tsomokunga]
 
 ## ✨ Fun Fact
 I love mixing creativity with code — whether it's building games, making AI videos, or designing web pages!
