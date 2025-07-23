@@ -15,8 +15,39 @@ body {
   background-attachment: fixed;
   color: #fff; /* optional: white text for contrast */
 }
-
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* dark overlay */
+  z-index: -1;
 }
+.fancy-border {
+  border: 5px solid #ffffff; /* white border */
+  border-radius: 20px;       /* rounded corners */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4); /* elegant shadow */
+  padding: 5px;
+  background-color: #ffffff10; /* soft background */
+  backdrop-filter: blur(2px);  /* soft blur (optional) */
+  transition: transform 0.3s ease;
+  display: block;
+  margin: 20px auto;
+}
+.fancy-border {
+  border: 3px solid #00bcd4; /* aqua border */
+  box-shadow: 0 0 12px #00bcd4;
+}
+.video-border {
+  border: 4px solid #4caf50; /* Green border */
+  border-radius: 15px;       /* Rounded corners */
+  padding: 4px;              /* Optional space inside border */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4); /* Soft shadow */
+  display: block;
+  margin: 20px auto;
+}
+
 
 header, footer {
   background-color: #222;
